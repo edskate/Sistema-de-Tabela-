@@ -28,3 +28,15 @@ Alinhamento ao centro :-- -:
 | :------------ | :---: | --------: |
 | `João` | Teste1 | `Nova York` |
 | `Bob` | Teste2 | `Los Angeles` |
+|       |        |               |
+
+# Adicionando Escrita:
+
+| Data | #001   | #002    |
+| :---:   | :---: | :---: |
+| Mês | 0001   | 0003   | 
+# Table 008
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
